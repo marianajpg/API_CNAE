@@ -1,4 +1,4 @@
-package org.example.dto;
+package example.dto;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

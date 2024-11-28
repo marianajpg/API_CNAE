@@ -1,6 +1,6 @@
-package org.example.servico;
+package example.servico;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.example.dto.SubclasseDTO;
+import example.dto.SubclasseDTO;
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
